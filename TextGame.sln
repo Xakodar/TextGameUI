@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextGame", "TextQuest\TextGame.csproj", "{BDEDFA2A-9188-4061-86D7-755FE128CC45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject2", "TestProject2\TestProject2.csproj", "{F7BD6096-7A72-409E-9E9C-ECF1B2D023CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp", "WpfApp\WpfApp\WpfApp.csproj", "{ED356855-C18B-4D6F-ADB3-755750AE446C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEDFA2A-9188-4061-86D7-755FE128CC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEDFA2A-9188-4061-86D7-755FE128CC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEDFA2A-9188-4061-86D7-755FE128CC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEDFA2A-9188-4061-86D7-755FE128CC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BD6096-7A72-409E-9E9C-ECF1B2D023CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BD6096-7A72-409E-9E9C-ECF1B2D023CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BD6096-7A72-409E-9E9C-ECF1B2D023CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BD6096-7A72-409E-9E9C-ECF1B2D023CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED356855-C18B-4D6F-ADB3-755750AE446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED356855-C18B-4D6F-ADB3-755750AE446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED356855-C18B-4D6F-ADB3-755750AE446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED356855-C18B-4D6F-ADB3-755750AE446C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DADEBA-52DE-4509-A2D4-B3F4277FF598}
+	EndGlobalSection
+EndGlobal
