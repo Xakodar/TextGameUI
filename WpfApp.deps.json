@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp/1.0.0": {
+        "dependencies": {
+          "TextGame": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp.dll": {}
+        }
+      },
+      "TextGame/1.0.0": {
+        "runtime": {
+          "TextGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
